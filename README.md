@@ -1,7 +1,7 @@
 # ICE (Intelligent Course Enrollment)
 ## _Bryn Mawr Course Scheduling Algorithm_
 
-ICE is a course-scheduling software that uses Greedy Algorithm to solve a version of the Registrar's Problem, where we are given/generate the input of students and a list of classes that they want to take. 
+ICE is a course-scheduling software that uses a greedy algorithm to solve a version of the Registrar's Problem, where we are given/generate the input of students and a list of classes that they want to take. 
 
 ## Note about `isValid.pl`:
 Our `test.py` script (can be found in `~/Algorithm`) has a function called `test` that contains the transcribed functions of `isValid.pl` and it evaluates the validity and performance of the schedule the exact same way. Our algorithm uses this python script to initiate the scheduling process and evaluate the output of the scheduling process. 
